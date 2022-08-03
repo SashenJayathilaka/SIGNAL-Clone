@@ -1,5 +1,5 @@
 # SIGNAL with REACT NATIVE!
-## <a href="https://signal-clone-a4081.firebaseapp.com" target="_blank">🔴 LIVE DEMO</a>
+## <a href="https://signal-clone-a4081.firebaseapp.com/" target="_blank">🔴 LIVE DEMO</a>
 
 #### PREREQUISITES:
 - Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
@@ -60,6 +60,16 @@ expo install react-native-safe-area-context
 - <a href="https://docs.expo.dev/eas" target="_blank">More Info</a>
 
 #### Open the camera app on your device and scan the code below
-<a href="#instagram"><img src="https://drive.google.com/uc?export=download&id=12dmglWhPEVo6DEQmNlvso7mdpfobai4K" alt="Instagram" width="200" height="200" /></a>
+<a href="#instagram"><img src="https://drive.google.com/uc?export=download&id=16y7YZV1prWKTAbQaZALHUZxuo0P_Xazw" alt="qr" width="200" height="200" /></a>
+<a href="#instagram"><img src="https://user-images.githubusercontent.com/99184393/182557606-b36f2540-1260-42bf-b547-ed5832e3615e.png" alt="qr" width="200" height="200" /></a>
 <br>
-
+#### Expo Publish
+publish your project
+```
+expo publish
+```
+<br>
+<br>
+<a href="#instagram"><img src="https://user-images.githubusercontent.com/99184393/182555460-3a494bdd-f26b-4de1-9e9f-dcdeb0d7f3d8.png" alt="qr" width="200" height="300" /></a>
+<a href="#instagram"><img src="https://user-images.githubusercontent.com/99184393/182555954-60d22213-c1ae-4247-93a7-18650b711a3e.png" alt="qr" width="200" height="300" /></a>
+<a href="#instagram"><img src="https://user-images.githubusercontent.com/99184393/182556593-b06f3d04-cf61-4bbe-9368-336c24cf3949.png" alt="qr" width="200" height="300" /></a>
